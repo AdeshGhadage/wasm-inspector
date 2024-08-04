@@ -27,6 +27,7 @@ This project provides a tool to inspect and visualize the structure of WebAssemb
     ```bash
     ./wasm_inspector <path_to_wasm_file>
     ```
+- you can use ../test/sample.wasm path
 
 ## Web Visualization (Optional)
 
